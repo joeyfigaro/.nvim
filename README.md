@@ -1,0 +1,2 @@
+# .nvim
+portable neovim configuration
